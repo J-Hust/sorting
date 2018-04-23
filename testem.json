@@ -1,6 +1,11 @@
 {
   "framework": "jasmine2",
   "src_files": [
+<<<<<<< HEAD
     "*.js"
+=======
+    "bubblesort.js",
+    "bubblesort.spec.js"
+>>>>>>> a6ca12f2f0afaae6b19f6e868ad93cedd855e197
   ]
 }
