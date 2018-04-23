@@ -2,7 +2,7 @@
 function bubbleSort(arr){
   let i=0, j = 0;
   let localCompareCount=0, localSwap=0;
-  debugger;
+  // debugger;
   // loop through using 1st element
   console.log ('Before: ' + arr);
   for (i=0; i<arr.length-1; i++){
